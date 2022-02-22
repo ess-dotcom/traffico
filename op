@@ -1,0 +1,64 @@
+            .load__more {
+                font-family: 'Rubik' sans-serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 30px;
+                display: flex;
+                align-items: center;
+                text-align: center;
+                letter-spacing: 0.05em;
+                text-transform: uppercase;
+                color: #ED4D47;
+                margin-left: 200px;
+                margin-top: 30px;
+            }
+            
+            .content {
+                width: 420px;
+                height: 360px;
+                border-radius: 10px;
+                background-color: white;
+            }
+            
+            .content p {
+                font-family: 'Rubik' sans-serif;
+                font-style: normal;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 30px;
+                color: #402B2B;
+                padding: 60px 52px 60px 48px;
+            }
+            
+            .user__details {
+                display: flex;
+                justify-content: space-around;
+                width: 240px;
+                height: 60px;
+                padding: 0 132px 40px 48px;
+            }
+            
+            .user__details h5 {
+                font-family: 'Roboto' sans-serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 16px;
+                line-height: 30px;
+                display: flex;
+                align-items: center;
+                color: #402B2B;
+            }
+            
+            .owl-carousel {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 20px;
+                margin-top: -300px;
+                margin-left: 700px;
+            }
+            
+            <div class="container__6"><div class="faq" style="margin-top: 200px;"><h4>ABOUT US</h4><p style="line-height:67.2px; width: 400px;">Our Awesome Clients</p></div><div class="owl-carousel"><div class="content"><p>Yes,
+            you will need to have the land owner sign the permit application as the Permittee,
+            and you sign the permit as the Applicant or Agent for the Permittee.</p><div class="user__details"><img src="./images/isak.png" alt=""><h5>Isak Pettersson</h5></div></div><div class="content"><p>From most barricade or traffic control companies located in the phone book. They employ certified Traffic Control Supervisors (TCS) who can generate and certify the traffic control plan. </p><div class="user__details"><img src="./images/simon.png" alt=""><h5>Simon Sandberg</h5></div></div><div class="content"><p>From most barricade or traffic control companies located in the phone book. They employ certified Traffic Control Supervisors (TCS) who can generate and certify the traffic control plan. </p><div class="user__details"><img src="./images/simon.png" alt=""><h5>Simon Sandberg</h5></div></div></div></div>
